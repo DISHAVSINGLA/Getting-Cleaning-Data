@@ -1,6 +1,5 @@
 # Getting-Cleaning-Data
 Author: Dishav Singla
-
 Data Zip File Location: UC Irvine Repo
 
 # Goal of the Project
